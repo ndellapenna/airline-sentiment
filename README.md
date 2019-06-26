@@ -1,6 +1,6 @@
 # airline-sentiment
 
-##Evaluate sentiment of customer tweets
+## Evaluate sentiment of customer tweets 
 
 This simple script can be used to gauge the feelings consumers express via 
 Twitter. Since it is rather tedious to have someone manually scan each 
